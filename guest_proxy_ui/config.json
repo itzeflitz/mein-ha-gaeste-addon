@@ -1,0 +1,20 @@
+{
+    "raum_name": "Gästezimmer",
+    "erlaubte_entitaeten": [
+        {
+            "id": "light.hue_color-candle_1",
+            "typ": "licht",
+            "name": "Deckenlampe"
+        },
+        {
+            "id": "cover.gaste_fenster",
+            "typ": "rollladen",
+            "name": "Fenster-Rollladen"
+        },
+        {
+            "id": "cover.gaste_tur",
+            "typ": "rollladen",
+            "name": "Tür-Rollladen"
+        }
+    ]
+}
