@@ -5,7 +5,9 @@ description: "Eine isolierte, konfigurierbare Weboberfläche für Gäste"
 arch:
   - aarch64
   - amd64
+  - armhf
   - armv7
+  - i386
 init: false
 option: {}
 shema: {}
