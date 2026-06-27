@@ -2,9 +2,19 @@
     "raum_name": "Gästezimmer",
     "erlaubte_entitaeten": [
         {
-            "id": "light.hue_color-candle_1",
+            "id": "light.zone_test",
             "typ": "licht",
-            "name": "Deckenlampe"
+            "name": "Deckenlampen"
+        },
+        {
+            "id": "light.hue_color_candle_3",
+            "typ": "licht",
+            "name": "Bettlampe"
+        },
+        {
+            "id": "light.gastezimmer",
+            "typ": "licht",
+            "name": "Alle Lampen"
         },
         {
             "id": "cover.gaste_fenster",
