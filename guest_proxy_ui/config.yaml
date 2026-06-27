@@ -1,6 +1,7 @@
 ---
 name: "Guest Room Proxy UI"
-version: "1.0.0"
+version: "1.0.1"
+slug: "guest_room_proxy_ui"
 description: "Eine isolierte, konfigurierbare Weboberfläche für Gäste"
 arch:
   - aarch64
